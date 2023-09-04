@@ -50,4 +50,5 @@ format:
 	@clang-format -i src/*.c	
 		
 .PHONY: build run clean format 
-" > Makefile  
+" > Makefile 
+git init
